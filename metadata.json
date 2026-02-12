@@ -1,0 +1,9 @@
+
+{
+  "name": "Manga Forge",
+  "description": "Premium UK-based e-commerce destination for high-quality anime figurines and merchandise, featuring an AI-powered Forge Keeper concierge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
